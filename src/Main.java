@@ -33,5 +33,7 @@ public class Main {
 //            System.out.println("press 1 to put money ,press 2 to withdraw money ,press 3 to show balance ,press 4 to calculate rate of interest");
 //        }while(sc.nextInt())
 
+        System.out.println("hi");
+
     }
 }
