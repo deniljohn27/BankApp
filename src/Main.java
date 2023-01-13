@@ -34,6 +34,7 @@ public class Main {
 //        }while(sc.nextInt())
 
         System.out.println("hi");
+        System.out.println("hi");
 
     }
 }
